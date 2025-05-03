@@ -11,3 +11,5 @@ A User Proxy Agent talks to a GPT-4o Assistant Agent. The Assistant leverages re
 🔗 GitHub Repo: https://github.com/sakibreja/Autonomous-Research-Agent-using-GPT-4o-Tavily.git
 
 👨‍💻 Created by: MD Sakib Reja
+
+![ChatGPT Image May 3, 2025, 09_52_54 PM](https://github.com/user-attachments/assets/76331bd5-56da-4052-aeb8-dec3e1b174ad)
